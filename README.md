@@ -21,7 +21,7 @@ I regularly practice problems on:
 
 - "Codeforces" (https://codeforces.com/profile/amir1389_gerami) — "amir1389_gerami"
 - "AtCoder" (https://atcoder.jp/users/amir1389_gerami) — "amir1389_gerami"
-- "CSES" (https://cses.fi/user/amir1389_gerami) — "Amir1389_Gerami"
+- "CSES" (https://cses.fi/user/372889) — "Amir1389_Gerami"
 
 My main goal is not just solving more problems, but improving my ability to recognize patterns, develop algorithms, prove ideas, and write efficient solutions.
 
