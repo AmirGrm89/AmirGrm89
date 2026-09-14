@@ -1,4 +1,4 @@
-Hi, I'm Amir 👋
+Hi, I'm Amir Mohammad 👋
 
 I'm a student interested in Competitive Programming, Algorithms, and Problem Solving.
 
