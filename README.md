@@ -1,60 +1,63 @@
-Hi, I'm Amir Mohammad 👋
+Hi, I'm Amir 👋
 
-I'm a student interested in Competitive Programming, Algorithms, and Problem Solving.
+I'm a programmer focused on algorithmic problem solving and competitive programming, with a strong interest in building practical software.
 
-I'm currently focusing on improving my algorithmic thinking and building a strong foundation in computer science through competitive programming and olympiad-style problem solving.
+What I Do
 
-🧠 What I'm Learning
+- Solve algorithmic problems on Codeforces, AtCoder, and CSES
+- Practice data structures, graph algorithms, dynamic programming, and problem-solving techniques
+- Build and improve software projects alongside competitive programming
 
-- C++
-- Algorithms & Data Structures
-- Competitive Programming
-- Problem Solving
-- Graph Theory
-- Dynamic Programming
-- Number Theory
-- Combinatorics
+Competitive Programming
 
-💻 Competitive Programming
+I maintain a collection of solutions and notes covering problems from different competitive programming platforms.
 
-I regularly practice problems on:
+Repository:
+"Competitive Programming" (https://github.com/AmirGrm89/competitive-programming)
 
-- "Codeforces" (https://codeforces.com/profile/amir1389_gerami) — "amir1389_gerami"
-- "AtCoder" (https://atcoder.jp/users/amir1389_gerami) — "amir1389_gerami"
-- "CSES" (https://cses.fi/user/372889) — "Amir1389_Gerami"
+Profiles:
 
-My main goal is not just solving more problems, but improving my ability to recognize patterns, develop algorithms, prove ideas, and write efficient solutions.
+- "Codeforces" (https://codeforces.com/profile/amir1389_gerami)
+- "AtCoder" (https://atcoder.jp/users/amir1389_gerami)
+- "CSES" (https://cses.fi/user/372889)
 
-🚀 Featured Project
+Featured Project
 
 Codeforces Analytics — Neo Glass
 
-A Chrome extension that adds an interactive analytics dashboard to Codeforces profiles.
+A Chrome extension for analyzing Codeforces profiles using the official Codeforces API.
 
-It uses the official Codeforces API to visualize statistics such as:
+The project includes:
 
-- Problem ratings
-- Solved tags
-- Submission-related statistics
-- Interactive charts
+- Problem and rating statistics
+- Tag-based analytics
+- Unsolved problem tracking
+- Image export for statistics
+- Multi-language support
+- Neo Glass interface with dark/light themes
 
-The project is also an opportunity for me to practice browser development, APIs, data visualization, and Git/GitHub workflows.
+"View the project →" (https://github.com/AmirGrm89/codeforces-analytics-neoglass)
 
-👉 "View the project" (https://github.com/AmirGrm89/codeforces-analytics-neoglass)
+Technical Focus
 
-📚 My Learning Journey
+Languages
 
-I'm currently building my skills step by step through:
+C++
 
-1. Solving competitive programming problems.
-2. Studying algorithms and data structures.
-3. Writing and reviewing my own solutions.
-4. Studying olympiad-style problems and proofs.
-5. Building small practical projects.
-6. Documenting useful things I learn along the way.
+JavaScript
 
-This profile will gradually grow as I learn and build more.
+Interests
+
+- Algorithms & Data Structures
+- Competitive Programming
+- Graph Theory
+- Problem Solving
+- Software Development
+
+Current Focus
+
+Improving my algorithmic problem-solving skills while building practical software projects and maintaining a clean, well-documented codebase.
 
 ---
 
-«Learning → Solving → Building → Improving»
+This profile reflects my ongoing work and learning in programming and computer science.
