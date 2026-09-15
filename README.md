@@ -1,16 +1,16 @@
 Hi, I'm Amir 👋
 
-I'm a programmer focused on algorithmic problem solving and competitive programming, with a strong interest in building practical software.
+I'm a programmer focused on algorithmic problem solving and competitive programming, with an interest in building practical software.
 
 What I Do
 
 - Solve algorithmic problems on Codeforces, AtCoder, and CSES
-- Practice data structures, graph algorithms, dynamic programming, and problem-solving techniques
+- Practice algorithms, data structures, graph theory, and problem-solving techniques
 - Build and improve software projects alongside competitive programming
 
 Competitive Programming
 
-I maintain a collection of solutions and notes covering problems from different competitive programming platforms.
+I maintain a collection of solutions and notes from competitive programming platforms.
 
 Repository:
 "Competitive Programming" (https://github.com/AmirGrm89/competitive-programming)
@@ -40,13 +40,11 @@ The project includes:
 
 Technical Focus
 
-Languages
+Programming Language
 
-C++
+- C++
 
-JavaScript
-
-Interests
+Areas of Interest
 
 - Algorithms & Data Structures
 - Competitive Programming
@@ -56,8 +54,8 @@ Interests
 
 Current Focus
 
-Improving my algorithmic problem-solving skills while building practical software projects and maintaining a clean, well-documented codebase.
+Improving my algorithmic problem-solving skills through competitive programming while building practical software projects and maintaining clean, well-documented code.
 
 ---
 
-This profile reflects my ongoing work and learning in programming and computer science.
+This profile reflects my ongoing work and development in programming and computer science.
